@@ -1,0 +1,7 @@
+git bash 
+pwd
+ls
+cd
+mk dir
+rm dir
+clea
